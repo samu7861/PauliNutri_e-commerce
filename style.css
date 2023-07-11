@@ -41,6 +41,19 @@ header img:hover {
 }
 
 /*other nav*/
+@media only screen and (min-width: 500px) {
+  .burger{
+    display: none;
+  }
+  #logo3{
+    display: none !important;
+  }
+  #bgMobile{
+    display: none !important;
+  }
+  
+}
+
 
 nav{
   display: flex;
@@ -48,7 +61,7 @@ nav{
   align-items: center;
   gap: 10px;
 }
-nav img{
+nav #logo1{
   padding-left: 80px;
   width: 100px;
   height: auto;

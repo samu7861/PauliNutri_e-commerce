@@ -1,0 +1,39 @@
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    body{
+        background-color: white;
+        background-image: none !important;
+      
+    }
+    #bgMobile{       
+            width: 492px;
+            height: 731px;
+            left: -40px;
+            top: 69px; 
+            position: absolute;
+     
+    }
+    .menu{ 
+        display: none !important;
+    }
+
+    #logo1{
+        display: none;
+    }
+    
+    #cita{
+        display: none !important; 
+      }
+    
+    
+    #logo3{
+        width: 100px;
+        height: auto;
+    }
+    
+    .burger > img{
+        width: 32px; 
+        height: 32px; 
+    
+        
+    }
+  }
