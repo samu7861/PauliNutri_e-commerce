@@ -31,7 +31,7 @@
         height: auto;
     }
     
-    .burger > img{
+    .burger > a > img{
         width: 32px; 
         height: 32px; 
     
