@@ -37,4 +37,38 @@
     
         
     }
+
+    #intro{
+        display: flex !important;
+    }
+
+    #secondColumn{
+        display: block !important;
+    }
+
+
+    #textoinit{
+        width: 100%; 
+        height: 400px; 
+        justify-content: center; 
+        align-items: center; 
+        display: inline-flex"
+    }
+
+    #socialButton{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 200px !important;
+        height: 100px !important;
+        margin: 0px !important;
+    
+    }
+        #i_image{
+            display: block;
+            width: 60px; 
+            height: 60px; 
+            margin: 0 auto;
+            
+        }
   }
