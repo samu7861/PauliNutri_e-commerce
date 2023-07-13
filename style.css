@@ -1,6 +1,8 @@
 /* Header */
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Nunito:wght@300&family=Ysabeau+Office:wght@1;200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
 
 header{
   padding: 20px;
@@ -136,6 +138,7 @@ body{
 }
 
 #textoinit{
+  font-family: 'Abel', sans-serif;
   display: flex;
   justify-content: flex-end;
   margin-right: 20px;
@@ -251,6 +254,7 @@ span{
 }
 
 #textoguia{
+  font-family: 'Abel', sans-serif;
   display: flex;
   grid-row-start: 2;
   justify-content: center;
