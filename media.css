@@ -3,7 +3,7 @@
         width: auto;
         background-color: white;
         background-image: none !important;
-        overflow: hidden;
+        overflow-x: hidden;
     }
     #bgMobile{       
             width: auto;

@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Nunito:wght@300&family=Ysabeau+Office:wght@1;200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 header{
   padding: 20px;
@@ -138,7 +138,8 @@ body{
 }
 
 #textoinit{
-  font-family: 'Abel', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
   display: flex;
   justify-content: flex-end;
   margin-right: 20px;
